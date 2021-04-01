@@ -72,7 +72,9 @@ table {
     align-items: center;
     background-color: rgba(0, 0, 0, 0.15);
     width: 100%;
-    margin: 35px 0;
+    margin: 25px 0;
+
+    border: 2px solid #000;
 
     font-family: "Lato Extended","Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 100;
